@@ -1,0 +1,131 @@
+{
+    "format": "hair-wig/3",
+    "name": "Fosi P4",
+    "brand": "Fosi Audio",
+    "model": "P4",
+    "notes": "Codes provided by manufacturer, verified on hardware",
+    "kind": "preamp",
+    "origin": "clipped",
+    "identifiers": {
+      "asin": "B0DR2GKYW3"
+    },
+    "wig_id": "cb1424be-8e7e-42ec-9e3e-fcd5700884a9",
+    "signals": [
+        {
+            "alias": "Power",
+            "pronto": "0000 006D 0022 0000 015C 00AE 0015 0017 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0042 0015 0042 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0017 0015 0017 0015 0017 0015 0017 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0042 0015 0042 0015 0181 ",
+            "ditto_count": 1,
+            "bypass_protocol": false
+        },
+        {
+            "alias": "Mute",
+            "pronto": "0000 006D 0022 0000 015C 00AE 0015 0017 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0042 0015 0042 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0017 0015 0017 0015 0042 0015 0042 0015 0017 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0017 0015 0017 0015 0042 0015 0042 0015 0017 0015 0042 0015 0181 ",
+            "ditto_count": 1,
+            "bypass_protocol": false
+        },
+        {
+            "alias": "Volume Up",
+            "pronto": "0000 006D 0022 0000 015C 00AD 0015 0017 0015 0017 0015 0041 0015 0017 0015 0042 0015 0042 0015 0042 0015 0042 0015 0041 0015 0017 0015 0042 0015 0017 0015 0041 0015 0017 0015 0042 0015 0042 0015 0017 0015 0042 0015 0041 0015 0042 0015 0041 0015 0017 0015 0042 0015 0017 0015 0042 0015 0017 0015 0017 0015 0017 0015 0017 0015 0041 0015 0017 0015 0041 0015 0181 ",
+            "ditto_count": 1,
+            "bypass_protocol": false
+        },
+        {
+            "alias": "Volume Down",
+            "pronto": "0000 006D 0022 0000 0158 00AD 0015 0017 0015 0017 0015 0042 0015 0017 0015 0041 0015 0041 0015 0042 0015 0042 0015 0042 0015 0017 0015 0042 0015 0017 0015 0041 0015 0017 0015 0041 0015 0042 0015 0016 0015 0017 0015 0041 0015 0017 0015 0041 0015 0017 0015 0016 0015 0017 0015 0041 0015 0041 0015 0017 0015 0041 0015 0017 0015 0041 0015 0042 0015 0042 0015 0181 ",
+            "ditto_count": 1,
+            "bypass_protocol": false
+        },
+        {
+            "alias": "Mode",
+            "pronto": "0000 006D 0022 0000 0158 00AE 0015 0017 0015 0017 0015 0042 0015 0017 0015 0042 0015 0042 0015 0042 0015 0042 0015 0042 0015 0017 0015 0042 0015 0017 0015 0041 0015 0017 0015 0042 0015 0042 0015 0041 0015 0042 0015 0017 0015 0017 0015 0017 0015 0042 0015 0017 0015 0017 0015 0017 0015 0017 0015 0042 0015 0041 0015 0042 0015 0017 0015 0042 0015 0042 0015 0181 ",
+            "ditto_count": 1,
+            "bypass_protocol": false
+        }
+    ],
+    "fittings": [
+        {
+            "wig_id": "cb1424be-8e7e-42ec-9e3e-fcd5700884a9",
+            "handle": "Didgeridrew",
+            "github": "Didgeridrew",
+            "date": "2026-09-10",
+            "rows": [
+                {
+                    "alias_at_claim": "Power",
+                    "digest": "a7e642b83247e56e",
+                    "verdict": "worked"
+                },
+                {
+                    "alias_at_claim": "Mute",
+                    "digest": "d4ab038e054f04ec",
+                    "verdict": "worked"
+                },
+                {
+                    "alias_at_claim": "Volume Up",
+                    "digest": "c313e44da02d20c9",
+                    "verdict": "worked"
+                },
+                {
+                    "alias_at_claim": "Volume Down",
+                    "digest": "470c8d3bff0dc5ca",
+                    "verdict": "worked"
+                },
+                {
+                    "alias_at_claim": "Mode",
+                    "digest": "06fa7432b43bdd61",
+                    "verdict": "worked"
+                }
+            ],
+            "key": "iF9afO9fIxXO1o27oFCWKo+FKzMuXQyHBg7nwPphS1w=",
+            "sig": "zzQ6eBTn8gOC7BEUp2aIG6yryqKQ1i832cNl9LucYvtIE/s+hzFlBZ886vv+0OeFlWFNvXHuu3Ctdz1o0gt2Bw=="
+        }
+    ],
+    "comb": {
+        "version": 2,
+        "date": "2026-09-10",
+        "suspects": 0,
+        "counts": {},
+        "findings": [],
+        "coverage": {
+            "codes": 5,
+            "checked": 5,
+            "checks": {
+                "frame-shape": {
+                    "checked": 5,
+                    "declined": {}
+                },
+                "frame-disagreement": {
+                    "checked": 0,
+                    "declined": {
+                        "single-frame": 5
+                    }
+                },
+                "duplicated-neighbour": {
+                    "checked": 0,
+                    "declined": {
+                        "no-lattice": 1
+                    }
+                },
+                "field-mismatch": {
+                    "checked": 0,
+                    "declined": {
+                        "protocol-unmapped": 5
+                    }
+                },
+                "frame-integrity": {
+                    "checked": 0,
+                    "declined": {
+                        "protocol-unmapped": 5
+                    }
+                }
+            },
+            "protocol": {
+                "id": null,
+                "codes": 5,
+                "readable": 0,
+                "declined": {
+                    "protocol-unmapped": 5
+                }
+            }
+        }
+    }
+}
